@@ -1,4 +1,4 @@
-# USJT
+# USJT-Adapti
 Software para resolver as questões do adapti (coisa da faculdade)
 
 O software basicamente clicando as respostas corretas.
